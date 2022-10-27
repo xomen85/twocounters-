@@ -1,1 +1,1 @@
-# twocounters-
+# twocounters- Using the constructor function
